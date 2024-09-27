@@ -33,7 +33,7 @@
     "enableRenovate": true,
     "extends": [
       "config:recommended"
-    ]
+    ],
     "workflowRules": {
       "enabled": true
     }
